@@ -1,0 +1,3 @@
+# Block visitors from opening these files directly in the browser.
+# PHP can still include them.
+Require all denied
