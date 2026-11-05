@@ -128,6 +128,6 @@ Importing the SQL file again resets the database to the original sample data.
 
 ## Team
 
-Adonis Flores, [Teammate 2], [Teammate 3], [Teammate 4] | Lehman College, CIS 344
+Adonis Flores & Ugo Brown | Lehman College, CIS 344
 
 Licensed under MIT.
